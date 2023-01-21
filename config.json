@@ -1,0 +1,13 @@
+{
+  "params": {
+    "local_server": "True",
+    "fb_url": "https://facebook.com/webuild",
+    "tw_url": "https://twitter.com/webuild",
+    "link_url": "https://www.linkedin.com/webuild",
+    "insta_url": "https://instagram.com/webuild",
+    "gmail-user": "muntasirulislam2@gmail.com",
+    "gmail-password": "bsqxrkwtqtkzqpfb",
+    "admin_user": "muntasirul",
+    "admin_password": "hello"
+  }
+}
